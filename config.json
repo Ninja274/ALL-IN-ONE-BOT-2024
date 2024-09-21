@@ -1,5 +1,5 @@
 {
-    "token": "MTI4NjkwMzMyMjQ4NTE5NDc1Mg.GmzSEh.-XRfkSXvaGvq-JIqtGu8yKywxnbOOXrjFeXNWo",
+    "token": "",
     "language": "en",
     "prefix": "!",
     "mongodbUri": "mongodb+srv://mahmoudadel40250:<db_password>@cluster0.oko0e8n.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
